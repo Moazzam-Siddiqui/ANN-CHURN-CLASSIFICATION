@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="churn.png" alt="NLP Diagram" height="1280" width="3000" href= "https://github.com/Moazzam-Siddiqui/COMPLETE-NLP-AND-DEEP-LEARNING">
+</p>  
+
+
+
 # 📊 ANN Churn Classification
 
 This repository contains an **Artificial Neural Network (ANN)**-based churn classification model.  
